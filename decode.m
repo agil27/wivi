@@ -1,5 +1,5 @@
 clear;
-[data, fs] = audioread('h.wav');
+[data, fs] = audioread('../exa.wav');
 %figure(1);
 %plot(data);
 hold on;
